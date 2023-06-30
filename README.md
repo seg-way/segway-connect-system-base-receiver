@@ -1,1 +1,1 @@
-# segway-connect-system-base-reciever
+# segway-connect-system-base-receiver
